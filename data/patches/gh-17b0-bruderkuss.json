@@ -1,0 +1,36 @@
+{
+	"id": 1368,
+	"name": "Bruderkuss",
+	"description": "\"The Brother Kiss\" is a kiss between Honecker and Brezhnev in 1979",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Socialist_fraternal_kiss"
+		]
+	},
+	"path": {
+		"164-166": [
+			[
+				489,
+				-996
+			],
+			[
+				577,
+				-996
+			],
+			[
+				576,
+				-940
+			],
+			[
+				489,
+				-941
+			]
+		]
+	},
+	"center": {
+		"164-166": [
+			533,
+			-968
+		]
+	}
+}
